@@ -1,4 +1,4 @@
-<php
+<?php
 
 echo 'This is vasu';
 echo "vaara";
